@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">FashionHub</h3>
+            <h3 className="text-lg font-semibold mb-4">La Moda Fashion</h3>
             <p className="text-gray-400">
               Discover your style with our curated collection of trendy and sustainable fashion.
             </p>
@@ -52,7 +52,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
-          <p>&copy; 2023 FashionHub. All rights reserved.</p>
+          <p>&copy; 2025 La Moda Fashion. All rights reserved.</p>
         </div>
       </div>
     </footer>
